@@ -45,6 +45,9 @@ div{
     background: #FFFF00;
     text-align: right;
     color: #000000;
+}
+
+#yellow >h2{
     text-shadow: 5px 5px 2px #c7e2c7;
 }
 
@@ -56,6 +59,7 @@ div{
 footer{
     text-align: right;
     padding-top: 0px;
+    padding-left: 0px;
     padding-bottom: 10px;
     padding-right: 10px;
 }
